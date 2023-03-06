@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_JAVA_2_3</string>
+
+    <string-array name="AutoParts">
+        <item>Engine</item>
+        <item>Body</item>
+        <item>Wheels</item>
+        <item>Accessories</item>
+    </string-array>
+
+
+</resources>
