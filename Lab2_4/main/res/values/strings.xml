@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab_JAVA_2_4</string>
+    
+    <string-array name="Spisok">
+        <item>Number1</item>
+        <item>Number2</item>
+        <item>Number3</item>
+        <item>Number4</item>
+        <item>Number5</item>
+        <item>Number6</item>
+        <item>Number7</item>
+        <item>Number8</item>
+        <item>Number9</item>
+        <item>Number10</item>
+        <item>Number11</item>
+        <item>Number12</item>
+        <item>Number13</item>
+        <item>Number14</item>
+        <item>Number15</item>
+        <item>Number16</item>
+        <item>Number17</item>
+        <item>Number18</item>
+        <item>Number19</item>
+        <item>Number20</item>
+    </string-array>
+</resources>
